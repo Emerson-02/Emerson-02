@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Emerson-02
+- 👨‍💻 I'm a Computer Science student at the Federal University of Rio Grande do Sul, Brazil
+- 👀 I’m interested in Web Development, Game Development and Machine Learning
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on projects that use Python
+- 📫 How to reach me: emersondonascimentorodrigues@gmail.com
