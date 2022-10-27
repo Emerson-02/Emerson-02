@@ -21,4 +21,4 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=whit)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emerson-02&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
