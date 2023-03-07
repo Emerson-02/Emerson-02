@@ -7,8 +7,8 @@
 - 👨‍💻 I'm a Computer Science student at the Federal University of Rio Grande do Sul, Brazil
 - 👀 I’m interested in Web Development, Game Development and Machine Learning
 - 🤩 I like to talk about Anime, Games and The World of Technology
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects that use Python
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on projects that use C#
 - 📫 How to reach me: emersondonascimentorodrigues@gmail.com
 - 🚀 Let's grow together!
 
