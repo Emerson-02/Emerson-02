@@ -22,3 +22,6 @@
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=whit)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson-02&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
