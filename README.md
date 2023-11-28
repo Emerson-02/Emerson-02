@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m @Emerson-02
 - 👨‍💻 I'm a Computer Science student at the Federal University of Rio Grande do Sul, Brazil
-- 👀 I’m interested in Web Development, Game Development and Machine Learning
+- 👀 I’m interested in Game Development and Machine Learning
 - 🤩 I like to talk about Anime, Games and The World of Technology
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on projects that use C#
@@ -14,12 +14,14 @@
 
 ## ⭐️Skills
 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=whit)
 ![Javascript](https://img.shields.io/badge/Js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=whit)
+
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson-02&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
