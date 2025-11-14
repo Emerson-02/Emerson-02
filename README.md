@@ -2,7 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Emerson%20Rodrigues&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Game+Developer+%F0%9F%8E%AE;Full+Stack+Developer+%F0%9F%92%BB;Computer+Science+Student+%F0%9F%8E%93;Data+Analytics+Enthusiast+%F0%9F%93%8A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Game+Developer+%F0%9F%8E%AE;Full+Stack+Developer+%F0%9F%92%BB;Computer+Science+Student+%F0%9F%8E%93;Data+Analytics+Enthusiast+%F0%9F%93%8A" alt="Typing SVG" />
+
+<br>
 
 <p align="center">
   <a href="https://www.instagram.com/emerson_dnr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
